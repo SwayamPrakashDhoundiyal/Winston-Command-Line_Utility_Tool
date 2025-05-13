@@ -25,12 +25,6 @@
 
 ## 📸 Screenshots
 
-> (Insert terminal screenshot here showing real-time graphs and command usage)
-
----
-
-## 📂 Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/winston-cli.git
+![Alt Text](Screenshot/welcome_page)
+![Alt Text](Screenshot/commands)
+![Alt Text](Screenshot/task_graph)
