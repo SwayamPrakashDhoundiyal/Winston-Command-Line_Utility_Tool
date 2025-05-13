@@ -25,6 +25,6 @@
 
 ## 📸 Screenshots
 
-![Alt Text](Screenshots/welcome_page)
-![Alt Text](Screenshots/commands)
-![Alt Text](Screenshots/task_graph)
+![Alt Text](Screenshots/welcome_page.png)
+![Alt Text](Screenshots/commands.png)
+![Alt Text](Screenshots/task_graph.png)
